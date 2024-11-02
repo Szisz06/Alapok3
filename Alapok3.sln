@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alapok3", "Alapok3.csproj", "{FEE023AB-E7E9-4692-BE5D-F0D4ED754DA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE023AB-E7E9-4692-BE5D-F0D4ED754DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE023AB-E7E9-4692-BE5D-F0D4ED754DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE023AB-E7E9-4692-BE5D-F0D4ED754DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE023AB-E7E9-4692-BE5D-F0D4ED754DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5756EB4-481C-46DD-AFE5-0B63B442281B}
+	EndGlobalSection
+EndGlobal
